@@ -1,0 +1,37 @@
+.brder
+{
+    border:1px solid;
+}
+
+
+
+.card-title
+{
+font-weight:bold;
+font-size:24px;
+
+}
+
+.cont
+{
+    margin-top:2em;
+}
+.jumbotron
+{
+    background-color:white;
+}
+.icon1
+{
+font-size:7em;
+
+}
+.con
+{
+    text-align: center;
+}
+
+.modal-dialog {
+            top: 0%;
+                width: 100%;
+    position: absolute;
+        }

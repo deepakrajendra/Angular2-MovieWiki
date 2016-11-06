@@ -1,3 +1,2 @@
-<h1>
-  {{title}}
-</h1>
+<mv-search (searchThis)='searchThis($event)'></mv-search>
+<mv-movies-list [searchTerm]="search" (getMovie)='displayDetails($event)'></mv-movies-list>
