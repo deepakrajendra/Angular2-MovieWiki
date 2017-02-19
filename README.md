@@ -1,5 +1,6 @@
 # MovieWiki
 
+[Click here](http://moviewiki.surge.sh/) to see the application in action. 
 This project was developed using Angular2 with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
 
 ## Development server
